@@ -1,6 +1,6 @@
 # Predictive Analysis and Key Determinants of Hotel Booking Cancellations
 
-*Anuj Patil a,1, Srihaarika Viswanadhapalli a,1*
+*Anuj Patil a,1
 
 *a Department of Applied Data Science, Clarkson University, NY, USA*
 
